@@ -14,6 +14,7 @@ $ServidorSQL
 
 #>
 
+
 <#
 caso o nomero de servidores seja elevado, criar uma variavel e solicitar que o cliente importe uma arquivo com os
 servidores separados por ","
